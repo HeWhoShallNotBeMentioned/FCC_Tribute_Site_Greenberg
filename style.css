@@ -1,0 +1,37 @@
+.body-color {
+  background-color: #cfd8dc;
+}
+
+.img-style {
+  margin-bottom: 20px;
+}
+
+.left-well {
+  background-color: #3F729B;
+  border-radius: 20px;
+  color: white;
+}
+
+.right-well {
+  background-color: #ffecb3;
+  border-radius: 20px;
+}
+
+.right-well a {
+  color: #1e88e5 ;
+}
+
+.blockquote {
+  margin-top: 20px;
+}
+.footer-copyright {
+  background-color:#4B515D;
+  color:#90caf9;
+  border-radius:  10px ;
+  padding-top: 15px;
+  margin-top: 10px;
+}
+
+.footer-copyright a {
+  color:#42a5f5;
+}
